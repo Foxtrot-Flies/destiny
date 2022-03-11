@@ -1,0 +1,75 @@
+@charset "UTF-8";
+header {
+    width: 1024px;
+    height: 256px;
+    background-image: url(destin_finished.png);
+}
+aside {
+    background-color: #DBDBDC;
+    width: 150px;
+    height: 2000px;
+    float: left;
+    font-size: 20px;
+    font-family: cantarell;
+    font-style: normal;
+    padding: 4;
+    font-weight: 400;
+}
+body {
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: auto;
+    background-image: url(destinbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 375px;
+}
+#container main h1 {
+}
+#container  {
+    margin: auto;
+    width: 1024px;
+    height: auto;
+}
+main {
+    background-color: #F9F9F9;
+    height: 2000px;
+    float: left;
+    width: 1024px;
+    font-family: cantarell;
+    font-style: normal;
+    font-weight: 400;
+}
+footer {
+    background-color: #DBDBDC;
+    width: 1024px;
+}
+#container header {
+}
+nav {
+    width: 1024px;
+    height: 30px;
+    background-color: #FDED72;
+}
+#container nav li {
+    display: block;
+    list-style-type: none;
+    float: left;
+    width: 60px;
+    margin-right: 40px;
+    font-family: cantarell;
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
+}
+#container nav ul {
+    margin: auto;
+    width: 414px;
+}
+
+tc {
+		
+	
+}
